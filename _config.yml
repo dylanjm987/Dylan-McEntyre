@@ -1,5 +1,6 @@
 title: Dylan McEntyre
 description: I'm a guy from Virginia trying to figure things out one day at a time.  
-theme: jekyll-theme-cayman
-
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
