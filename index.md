@@ -11,6 +11,7 @@ I'm not sure. Creating for the joy of creation. Also a wise man told me that lif
 ## Tunes
 
 "The music is still beautiful even though the records broken."-Christian Gates
+
 "I'd rather be a pro at being myself than be an idiot trying to be somebody else."-Albert Shepard
 * [Sampha: Tiny Desk Concert](https://www.youtube.com/watch?v=WyXFfKYbtQU&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=37&pp=gAQBiAQB8AUB) 
 * [Jon Batiste: Tiny Desk Concert](https://www.youtube.com/watch?v=ze4xcmBFvaE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=42&pp=gAQBiAQB8AUB)
