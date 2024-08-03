@@ -28,8 +28,8 @@ Every heart sings a song, incomplete, until another heart whispers back. Those w
 * [What Is Communist Anarchism?](https://theanarchistlibrary.org/library/alexander-berkman-what-is-communist-anarchism)
 * [The Pit](https://pitrailway.blogspot.com/)
 
-#### Two things I've written
-##### Keep the fire burning, growing, and learning
+## Two things I've written
+### Keep the fire burning, growing, and learning
 Attempting to rhyme feels like a waste of time. Anything is a waste of time if that’s the meaning we attach to it. Expressing myself has value. Will anyone ever read this? Hard to say now. The little boy in me wonders how it all works. Not having the answers then made me go berserk. Definitely influenced my need to know. 
 
 We prevent our own growth by trippin over our own thoughts. It’s important to question what’s true. Too much prevents us from doing what we need to do. What do we need to do? Put in effort and be patient. To do anything requires both things. Effort requires patience and patience requires effort. This is the meaning I have attached to my own life. Not going to attempt to say anything more than that. 
@@ -39,7 +39,7 @@ To take it a step further, the belief that we will do whatever it is pushes us t
 
 Writing this is my way of reminding myself of it all. The goal is never to preach to anyone about anything. The goal is to keep the fire within burning and the pages turning. To continue growing and learning. 
 
-##### Befoo and Tacos
+### Befoo and Tacos
 The man who thinks a thousand thoughts fills a house. 
 The man who thinks a million thoughts fills the world.
 
