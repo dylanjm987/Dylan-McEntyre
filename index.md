@@ -18,6 +18,8 @@ The two main reasons are that I enjoy creating and want to learn. A wise man tol
 * [Mariachi Flor De Toloache: Tiny Desk Concert](https://www.youtube.com/watch?v=-rl26QKPHtE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=1&t=950s&pp=gAQBiAQB8AUB)
 * [Meshell Ndegeocello: Tiny Desk Concert](https://www.youtube.com/watch?v=XBuOd2MzdT4&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=108&pp=gAQBiAQB8AUB)
 * [The Philharmonik: Tiny Desk Concert](https://youtu.be/sKHswNFsRww?si=mF7d8YQMmnap99dj)
+* [Rodrigo y Gabriela: Tiny Desk Concert](https://youtu.be/wKd0HNg1kFQ?si=FadnveVIAOnzXO3Q)
+* [Khruangbin: Tiny Desk Concert](https://youtu.be/vWLJeqLPfSU?si=8wHLNWgXbaHsfL4K)
 * [My Spotify](https://open.spotify.com/user/31dngrl4a5hijs6ksqcc34cblrea?si=beabb21d4d594bea)
 
 ## Writing I enjoy
