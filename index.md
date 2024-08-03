@@ -23,7 +23,7 @@ The two main reasons are that I enjoy creating and want to learn. A wise man tol
 * [My Spotify](https://open.spotify.com/user/31dngrl4a5hijs6ksqcc34cblrea?si=beabb21d4d594bea)
 
 ## Writing I enjoy
-"He was realist enough to know that the ice-cream cone was a small one, but hungry enough to make a great deal of it in his fancy."-Kurt Vonnegut
+"I am the wisest man alive, for I know one thing, and that is that I know nothing." ― Plato
 * [Seema Reza on the Joy of Being (Completely) Alone](https://lithub.com/seema-reza-on-the-joy-of-being-completely-alone/)
 * [The Tyranny of The Should](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
 * [Brevity](https://brevitymag.com/)
@@ -32,6 +32,8 @@ The two main reasons are that I enjoy creating and want to learn. A wise man tol
 * [The Pit](https://pitrailway.blogspot.com/)
 
 ## Two things I've written
+"He was realist enough to know that the ice-cream cone was a small one, but hungry enough to make a great deal of it in his fancy."-Kurt Vonnegut
+
 ### Keep the fire burning, growing, and learning
 Attempting to rhyme feels like a waste of time. Anything is a waste of time if that’s the meaning we attach to it. Expressing myself has value. Will anyone ever read this? Hard to say now. The little boy in me wonders how it all works. Not having the answers then made me go berserk. Definitely influenced my need to know. 
 
