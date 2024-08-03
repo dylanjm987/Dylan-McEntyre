@@ -23,7 +23,7 @@ The two main reasons are that I enjoy creating and want to learn. A wise man tol
 * [My Spotify](https://open.spotify.com/user/31dngrl4a5hijs6ksqcc34cblrea?si=beabb21d4d594bea)
 
 ## Writing I enjoy
-"I am the wisest man alive, for I know one thing, and that is that I know nothing." ― Plato
+"I am the wisest man alive, for I know one thing, and that is that I know nothing." - Plato
 * [Seema Reza on the Joy of Being (Completely) Alone](https://lithub.com/seema-reza-on-the-joy-of-being-completely-alone/)
 * [The Tyranny of The Should](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
 * [Brevity](https://brevitymag.com/)
