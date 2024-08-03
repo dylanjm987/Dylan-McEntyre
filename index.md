@@ -6,7 +6,7 @@ This is my first real attempt at creating a website. Github pages makes it simpl
 
 ## Why?
 
-The two main reasons are that I enjoy creating and want to learn. A wise man told me that life is learning and I think I'd be doing a disservice to myself by not using all of my resources to learn.
+The two main reasons are that I enjoy creating and want to learn. A wise man told me that life is learning and I think I'd be doing a disservice to myself by not using all of my resources to do just that.
 
 ## Tunes
 
