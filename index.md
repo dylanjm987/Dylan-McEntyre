@@ -2,17 +2,16 @@
 layout: default
 ---
 
-This is my first real attempt at creating a website. Github pages makes it simpler than you'd think.
-
-Eventually, I'd like to use this site as a portfolio, but for now it's just a fun project to help me learn.
+This is my first real attempt at creating a website. Github pages makes it simpler than you'd think. Eventually, I'd like to use this site as a portfolio, but for now it's just a fun project to help me learn.
 
 ## Why?
 
-I'm not sure. I enjoy creating things and have been interested in technology since the 6th grade when my math teacher had us do CodeAcademy. When I was in 6th grade, I did not think I would be doing this right now but here I am. Life is learning and I'd be doing a disservice to myself by not taking advantage of all the resources that I have to learn.
+I'm not sure. Creating for the joy of creation. Also a wise man told me that life is learning and I think I'd be doing a disservice to myself by not using all of my resources to learn.
 
 ## Tunes
 
-Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet. ― Plato
+"The music is still beautiful even though the records broken."-Christian Gates
+"I'd rather be a pro at being myself than be an idiot trying to be somebody else."-Albert Shepard
 * [Sampha: Tiny Desk Concert](https://www.youtube.com/watch?v=WyXFfKYbtQU&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=37&pp=gAQBiAQB8AUB) 
 * [Jon Batiste: Tiny Desk Concert](https://www.youtube.com/watch?v=ze4xcmBFvaE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=42&pp=gAQBiAQB8AUB)
 * [Mariachi Flor De Toloache: Tiny Desk Concert](https://www.youtube.com/watch?v=-rl26QKPHtE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=1&t=950s&pp=gAQBiAQB8AUB)
@@ -21,6 +20,7 @@ Every heart sings a song, incomplete, until another heart whispers back. Those w
 * [My Spotify](https://open.spotify.com/user/31dngrl4a5hijs6ksqcc34cblrea?si=beabb21d4d594bea)
 
 ## Writing I enjoy
+"He was realist enough to know that the ice-cream cone was a small one, but hungry enough to make a great deal of it in his fancy."-Kurt Vonnegut
 * [Seema Reza on the Joy of Being (Completely) Alone](https://lithub.com/seema-reza-on-the-joy-of-being-completely-alone/)
 * [The Tyranny of The Should](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
 * [Brevity](https://brevitymag.com/)
