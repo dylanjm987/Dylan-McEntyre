@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+This is my first real attempt at creating a website. Github pages makes it simpler than you'd think.
+
+Eventually, I'd like to use this site as a portfolio, but for now it's just a fun project to help me learn.
+
+## Why?
+
+I'm not sure. I enjoy creating things and have been interested in technology since the 6th grade when my math teacher had us do CodeAcademy. When I was in 6th grade, I did not think I would be doing this right now but here I am. Life is learning and I'd be doing a disservice to myself by not taking advantage of all the resources that I have to learn.
+
+## Tunes
+
+Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet. ― Plato
+* [Sampha: Tiny Desk Concert](https://www.youtube.com/watch?v=WyXFfKYbtQU&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=37&pp=gAQBiAQB8AUB) 
+* [Jon Batiste: Tiny Desk Concert](https://www.youtube.com/watch?v=ze4xcmBFvaE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=42&pp=gAQBiAQB8AUB)
+* [Mariachi Flor De Toloache: Tiny Desk Concert](https://www.youtube.com/watch?v=-rl26QKPHtE&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=1&t=950s&pp=gAQBiAQB8AUB)
+* [Meshell Ndegeocello: Tiny Desk Concert](https://www.youtube.com/watch?v=XBuOd2MzdT4&list=PLZvG55UB2zVIp28Qbj9tK-dy1gSTNtJYp&index=108&pp=gAQBiAQB8AUB)
+* [The Philharmonik: Tiny Desk Concert](https://youtu.be/sKHswNFsRww?si=mF7d8YQMmnap99dj)
+* [My Spotify](https://open.spotify.com/user/31dngrl4a5hijs6ksqcc34cblrea?si=beabb21d4d594bea)
+
+## Writing I enjoy
+* [Seema Reza on the Joy of Being (Completely) Alone](https://lithub.com/seema-reza-on-the-joy-of-being-completely-alone/)
+* [The Tyranny of The Should](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
+* [Brevity](https://brevitymag.com/)
+* [Philosophy and Opinions of Marcus Garvey](https://www.jpanafrican.org/ebooks/eBook%20Phil%20and%20Opinions.pdf)
+* [What Is Communist Anarchism?](https://theanarchistlibrary.org/library/alexander-berkman-what-is-communist-anarchism)
+* [The Pit](https://pitrailway.blogspot.com/)
+
+#### Two things I've written
+##### Keep the fire burning, growing, and learning
+Attempting to rhyme feels like a waste of time. Anything is a waste of time if that’s the meaning we attach to it. Expressing myself has value. Will anyone ever read this? Hard to say now. The little boy in me wonders how it all works. Not having the answers then made me go berserk. Definitely influenced my need to know. 
+
+We prevent our own growth by trippin over our own thoughts. It’s important to question what’s true. Too much prevents us from doing what we need to do. What do we need to do? Put in effort and be patient. To do anything requires both things. Effort requires patience and patience requires effort. This is the meaning I have attached to my own life. Not going to attempt to say anything more than that. 
+
+The prerequisite to all of it is trying. Nothing good ever happens if we don’t try. Seems as if there is no point in trying if we’ll never be able to fly. The belief that we can do something comes before being able to do it. 
+To take it a step further, the belief that we will do whatever it is pushes us to take the necessary action to do it. This is something I’ve struggled with my whole life and continue to struggle with.
+
+Writing this is my way of reminding myself of it all. The goal is never to preach to anyone about anything. The goal is to keep the fire within burning and the pages turning. To continue growing and learning. 
+
+##### Befoo and Tacos
+The man who thinks a thousand thoughts fills a house. 
+The man who thinks a million thoughts fills the world.
+
+I’ve had journals for years but didn’t start trying to write until after I crashed my car. Maybe I’ll try to write a story that communicates the car crash but who knows. Who knows what will happen with this. I don’t know anything. 
+
+“Why?”, Freeman asked. Good question, I’ve been trying to figure out the answer for most of my life and have concluded that the answer is to try. “Why try?”, Freeman persists. I’ve asked myself that too and I don’t know. I believe we try in order to find out why. We’re a blank canvas then paint is splattered all over then at a certain point we choose whether or not we want to pick up the brush and paint something cool. Freeman continues to question things. “Why paint anything at all?” Couldn’t tell you. I think it’s worth the effort to figure out why though. We didn’t put the canvas on the easel or pick out the colors of paint but we get to decide what we paint. “Where the hell are we and how’d I get here? Also, who are you?” I was waiting for you to ask. You were picked up by a scanning technology we’ve created and brought to Beefoobackleborglebambroxi. We’re in the Southeastern region. I’m goob28. I’ll refer to Beefoobackleborglebambroxi as Beefoo from now on. Don’t know how they landed on the name. Everyone just says Beefoo. “Too many questions.” They’ll get answered soon enough. For now, just get acclimated to the space because you’ll be here for a while. “How long?” As long as it takes. “Oh yeah that clears everything up.” 
+
+Freeman was beyond confused. The last thing he remembers was going for a walk at one of his favorite parks. After looking around the room a bit, Freeman realizes that he doesn’t recognize any of the technology being used. There’s a monitor to his right that kinda resembles a heart rate monitor but it can’t be that because whatever it’s reading is in the millions. He looks around some more and can’t find a door. He wonders where that dude who calls himself goob28 went. Freeman looks down and he’s in the clothes he’d normally wear. He’s on a couch bed sorta thing. The room is medium sized and is actually kinda cool. There’s bookshelves and a record player. He gets up to check out the books and quickly realizes that they’re in a language he doesn’t recognize. He’s convinced it’s not even a human language. He begins inspecting the records and doesn’t recognize any of them. There’s no words anywhere on them. He puts one on the player and moves the tonearm onto the record. He waits for a second and doesn’t hear anything. While attempting to troubleshoot what could be wrong with the record player, goob28 pops back up behind Freeman. “It’s not on right now but will be later. You’ll be able to listen to all of the Beefoojams. The music here is marvelous.” At this point, Freeman has no idea what’s going on so he just nods. This room has everything you’ll need. “Where’s the bathroom? What happens when I want to eat?” The bathroom is to your left and whenever you’re hungry just think about what you’d like to eat and it will appear. Freeman looks left and says, “I don’t see a door and I just thought about tacos so where are they?” Just walk to the left side of the room and you’ll find it. The tacos are on the table.
+
+Freeman wakes up in his car and goes to get tacos. 
