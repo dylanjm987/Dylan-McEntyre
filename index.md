@@ -28,7 +28,6 @@ The two main reasons are that I enjoy creating and want to learn. A wise man tol
 * [The Tyranny of The Should](https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf)
 * [Brevity](https://brevitymag.com/)
 * [Philosophy and Opinions of Marcus Garvey](https://www.jpanafrican.org/ebooks/eBook%20Phil%20and%20Opinions.pdf)
-* [What Is Communist Anarchism?](https://theanarchistlibrary.org/library/alexander-berkman-what-is-communist-anarchism)
 * [The Pit](https://pitrailway.blogspot.com/)
 
 ## Two things I've written
